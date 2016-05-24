@@ -1,0 +1,4 @@
+<use name="SelfLibraries/FirstLib"/>
+<use name="SelfLibraries/SecondLib"/>
+
+<bin name="LibTest" file="main.cc"/>

@@ -1,0 +1,5 @@
+<use name="SelfLibraries/FirstLib"/>
+<use name="DataFormats/FWLite" />
+<use name="DataFormats/PatCandidates" />
+
+<bin name="EventLoop" file="main.cc"/>
